@@ -5,3 +5,4 @@ Kedvenc film
 | film címe | tanuló |
 ----------------------
 | Lord of the Rings | Huri Gabi |
+| Üvegtigris| Horváth Bence |
