@@ -8,5 +8,5 @@ Kedvenc filmek
 | Üvegtigris | Horváth Bence |
 | Lord of the Rings | Huri Gabi |
 | Terminator 2 | Kiss Gábor |
-| Kincs, ami nincs | Mandrusz Zsolt |
-| Halálos Iramb | Németh Marci |
+| Kincs, ami nincs | Szász Kristóf |
+| Halálos Iramb | Szász Kristóf |
