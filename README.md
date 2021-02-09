@@ -1,8 +1,10 @@
 # D9csoport2
 
-Kedvenc film
+
+Kedvenc filmek
 
 | film címe | tanuló |
-----------------------
+| --------- | ------ |
+| Üvegtigris | Horváth Bence |
 | Lord of the Rings | Huri Gabi |
-| Üvegtigris| Horváth Bence |
+| Terminator 2 | Kiss Gábor |
