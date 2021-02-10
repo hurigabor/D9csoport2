@@ -7,4 +7,5 @@ Kedvenc filmek
 | --------- | ------ |
 | Üvegtigris | Horváth Bence |
 | Lord of the Rings | Huri Gabi |
+| Halj meg máskor | Huri Gabi |
 | Terminator 2 | Kiss Gábor |
