@@ -14,3 +14,4 @@ Kedvenc filmek
 | Banános Joe | Szász Kristóf |
 | Buliszervíz 3 | Mandrusz Zsolt |
 | Transformers | Kovács Milán |
+| Banános Joe | Mák Dániel |
