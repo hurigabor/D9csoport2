@@ -11,8 +11,8 @@ Kedvenc filmek
 | Terminator 2 | Kiss Gábor |
 | Kincs, ami nincs | Szász Kristóf |
 | Halálos Iramb | Szász Kristóf |
-| Buliszervíz 3| Mandrusz Zsolt|
+| Buliszervíz 3 | Mandrusz Zsolt|
 | Banános Joe | Szász Kristóf |
-|Buliszervíz 3| Mandrusz Zsolt|
-| Buliszervíz 3| Mandrusz Zsolt|
+| Buliszervíz 3 | Mandrusz Zsolt|
+| Buliszervíz 3 | Mandrusz Zsolt|
 | Tokyo drift | Németh Marcell |
