@@ -10,7 +10,7 @@ Kedvenc filmek
 | Halj meg máskor | Huri Gabi |
 | Terminator 2 | Kiss Gábor |
 | Kincs, ami nincs | Szász Kristóf |
-| Halálos Iramb | Szász Kristóf |
+| Halálos Iramban | Szász Kristóf |
 | Banános Joe | Szász Kristóf |
-|Buliszervíz 3| Mandrusz Zsolt|
-| Buliszervíz 3| Mandrusz Zsolt|
+| Buliszervíz 3 | Mandrusz Zsolt |
+| Transformers | Kovács Milán |
