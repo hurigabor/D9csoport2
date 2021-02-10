@@ -10,3 +10,4 @@ Kedvenc filmek
 | Terminator 2 | Kiss Gábor |
 | Kincs, ami nincs | Szász Kristóf |
 | Halálos Iramb | Szász Kristóf |
+| Banános Joe | Szász Kristóf |
