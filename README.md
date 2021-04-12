@@ -14,3 +14,5 @@ Kedvenc filmek
 | Banános Joe | Szász Kristóf |
 |Buliszervíz 3| Mandrusz Zsolt|
 | Buliszervíz 3| Mandrusz Zsolt|
+| Kutya csata | Szász Kristóf |
+ 
